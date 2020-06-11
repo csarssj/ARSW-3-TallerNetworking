@@ -16,7 +16,7 @@ mvn package
 
 ```
 
-![image](https://github.com/csarssj/ARSW-2-Calculator/blob/master/resources/compilado.png)
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/compilado.png)
 
 
 ### Prerequisitos
@@ -68,7 +68,7 @@ public class URLManager {
  }
 }
 ```
-
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/URL.png)
 ## Ejercicio 2
 
 Escriba una aplicación browser que pregunte una dirección URL al usuario y que lea datos de esa dirección y que los almacene en un archivo con el nombre resultado.html. Luego intente ver este archivo en el navegador.
@@ -100,7 +100,7 @@ public class BrowserPrototype {
 	}
 }
 ```
-
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/resultado.png)
 
 ## Ejercicio 4.3.1 
 
@@ -195,7 +195,7 @@ public class EchoServer {
 }
 
 ```
-
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/EchoServer.png)
 ## Ejercicio 4.3.2
 
 Escriba un servidor que pueda recibir un número y responda con un operación sobre este número. Este servidor puede recibir un mensaje que empiece por “fun:”, si recibe este mensaje cambia la 
@@ -268,6 +268,8 @@ public class FunctionServer {
 		
 }
 ```
+
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/Function.png)
 ## Ejercicio 4.5
 
 Escriba un servidor web que soporte múltiples solicitudes seguidas (no concurrentes). El servidor debe retornar todos los archivos solicitados, incluyendo páginas html e imágenes.
@@ -348,6 +350,14 @@ java -cp target\TallerNetworking-1.0-SNAPSHOT.jar edu.escuelaing.arsw.app.HttpSe
 
 y se confirman en el localhost los recursos que han de ser cargados:
 
+Con HTML 
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/dr.png)
+
+Con HTML2
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/HttpServer.png)
+
+Con Foto:
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/ca.png)
 
 ## Construido en
 
