@@ -347,16 +347,21 @@ Se ejecuta el siguiente comando
 ```
 java -cp target\TallerNetworking-1.0-SNAPSHOT.jar edu.escuelaing.arsw.app.HttpServer
 ```
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/HttpServer.png)
+
 
 y se confirman en el localhost los recursos que han de ser cargados:
 
-Con HTML 
+Con HTML:
+
 ![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/dr.png)
 
-Con HTML2
-![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/HttpServer.png)
+Con HTML2:
+
+![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/example.png)
 
 Con Foto:
+
 ![image](https://github.com/csarssj/ARSW-3-TallerNetworking/blob/master/img/ca.png)
 
 ## Construido en
